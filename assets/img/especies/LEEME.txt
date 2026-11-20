@@ -1,0 +1,1 @@
+Guarda aqui las fotos de especies con el nombre cientifico en minusculas y guiones (ej: pinus-pinaster.jpg), ancho 800 px y menos de 150 KB. Anota autor, licencia y enlace en data/especies.js.
