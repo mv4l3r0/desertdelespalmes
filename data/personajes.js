@@ -41,7 +41,17 @@ window.PERSONAJES=[
   "fuentes": [
    "Resolución de 8 de marzo de 2004 (BOE-A-2004-6216), incoación del expediente de BIC del Desierto de las Palmas."
   ],
-  "estado": "con fuente"
+  "estado": "con fuente",
+  "imagen": {
+   "src": "assets/img/personajes/baron-de-benicassim.svg",
+   "autor": "",
+   "licencia": "",
+   "alt": {
+    "es": "Ilustración del barón de Benicàssim, noble del siglo XVII, con un documento",
+    "va": "Il·lustració del baró de Benicàssim, noble del segle XVII, amb un document",
+    "en": "Illustration of the Baron of Benicàssim, a 17th-century nobleman, holding a document"
+   }
+  }
  },
  {
   "id": "bernardo-de-san-jose",
@@ -64,7 +74,7 @@ window.PERSONAJES=[
    "Arte y Cultura"
   ],
   "rol": "Tracista (arquitecto) carmelita",
-  "vinculo": "Según el expediente de BIC, fue el tracista de las obras del convento de nueva planta (el «Desert Vell», hoy en ruinas), que se empezó en 1698. Una fuente anterior atribuía los planos a un «fray José de la Concepción», dato que no consta en el expediente.",
+  "vinculo": "Según el expediente de BIC, fue el tracista de las obras del convento de nueva planta (el convento viejo, hoy en ruinas), que se empezó en 1698. Una fuente anterior atribuía los planos a un «fray José de la Concepción», dato que no consta en el expediente.",
   "legado": "Pautas constructivas del convento de nueva planta.",
   "fuentes": [
    "Resolución de 8 de marzo de 2004 (BOE-A-2004-6216), incoación del expediente de BIC del Desierto de las Palmas."
@@ -360,7 +370,17 @@ window.PERSONAJES=[
   "fuentes": [
    "Husillos Tamarit, I. (2019). El Desierto de Las Palmas a lo largo del siglo XIX. Revista de Espiritualidad 78, 199–226, pp. 206–208."
   ],
-  "estado": "con fuente"
+  "estado": "con fuente",
+  "imagen": {
+   "src": "assets/img/personajes/valero-de-santa-teresa.svg",
+   "autor": "",
+   "licencia": "",
+   "alt": {
+    "es": "Ilustración del padre Valero de Santa Teresa con un escrito en la mano ante el convento",
+    "va": "Il·lustració del pare Valero de Santa Teresa amb un escrit a la mà davant del convent",
+    "en": "Illustration of Father Valero de Santa Teresa holding a written account before the convent"
+   }
+  }
  },
  {
   "id": "mariano-de-santa-teresa",
@@ -376,7 +396,17 @@ window.PERSONAJES=[
   "fuentes": [
    "Husillos Tamarit, I. (2019). El Desierto de Las Palmas a lo largo del siglo XIX. Revista de Espiritualidad 78, 199–226, p. 210 y p. 216."
   ],
-  "estado": "con fuente"
+  "estado": "con fuente",
+  "imagen": {
+   "src": "assets/img/personajes/mariano-de-santa-teresa.svg",
+   "autor": "",
+   "licencia": "",
+   "alt": {
+    "es": "Ilustración del padre Mariano de Santa Teresa junto a un río en una mañana de bruma",
+    "va": "Il·lustració del pare Mariano de Santa Teresa vora un riu en un matí de boira",
+    "en": "Illustration of Father Mariano de Santa Teresa beside a river on a misty morning"
+   }
+  }
  },
  {
   "id": "mariano-de-san-marcos-evangelista",
@@ -392,7 +422,17 @@ window.PERSONAJES=[
   "fuentes": [
    "Husillos Tamarit, I. (2019). El Desierto de Las Palmas a lo largo del siglo XIX. Revista de Espiritualidad 78, 199–226, pp. 203 y 213."
   ],
-  "estado": "con fuente"
+  "estado": "con fuente",
+  "imagen": {
+   "src": "assets/img/personajes/mariano-de-san-marcos-evangelista.svg",
+   "autor": "",
+   "licencia": "",
+   "alt": {
+    "es": "Ilustración del padre Mariano de San Marcos Evangelista, anciano, con un libro de noche",
+    "va": "Il·lustració del pare Mariano de San Marcos Evangelista, ancià, amb un llibre de nit",
+    "en": "Illustration of the elderly Father Mariano de San Marcos Evangelista with a book at night"
+   }
+  }
  },
  {
   "id": "vicente-del-carmelo",
@@ -408,7 +448,17 @@ window.PERSONAJES=[
   "fuentes": [
    "Husillos Tamarit, I. (2019). El Desierto de Las Palmas a lo largo del siglo XIX. Revista de Espiritualidad 78, 199–226, pp. 212 y 219–220."
   ],
-  "estado": "con fuente"
+  "estado": "con fuente",
+  "imagen": {
+   "src": "assets/img/personajes/vicente-del-carmelo.svg",
+   "autor": "",
+   "licencia": "",
+   "alt": {
+    "es": "Ilustración del padre Vicente del Carmelo con un documento y un velero al fondo",
+    "va": "Il·lustració del pare Vicente del Carmelo amb un document i un veler al fons",
+    "en": "Illustration of Father Vicente del Carmelo with a document and a sailing ship behind him"
+   }
+  }
  },
  {
   "id": "manuel-de-santa-teresa",
@@ -424,7 +474,17 @@ window.PERSONAJES=[
   "fuentes": [
    "Husillos Tamarit, I. (2019). El Desierto de Las Palmas a lo largo del siglo XIX. Revista de Espiritualidad 78, 199–226, p. 215."
   ],
-  "estado": "con fuente"
+  "estado": "con fuente",
+  "imagen": {
+   "src": "assets/img/personajes/manuel-de-santa-teresa.svg",
+   "autor": "",
+   "licencia": "",
+   "alt": {
+    "es": "Ilustración del padre Manuel de Santa Teresa ante un velero en la costa",
+    "va": "Il·lustració del pare Manuel de Santa Teresa davant d'un veler a la costa",
+    "en": "Illustration of Father Manuel de Santa Teresa before a sailing ship on the coast"
+   }
+  }
  },
  {
   "id": "francois-arago",
@@ -440,7 +500,17 @@ window.PERSONAJES=[
   "fuentes": [
    "Husillos Tamarit, I. (2019). El Desierto de Las Palmas a lo largo del siglo XIX. Revista de Espiritualidad 78, 199–226, p. 205, nota 17."
   ],
-  "estado": "con fuente"
+  "estado": "con fuente",
+  "imagen": {
+   "src": "assets/img/personajes/francois-arago.svg",
+   "autor": "",
+   "licencia": "",
+   "alt": {
+    "es": "Ilustración de François Arago junto a un instrumento de medición en la cima",
+    "va": "Il·lustració de François Arago al costat d'un instrument de mesura al cim",
+    "en": "Illustration of François Arago beside a surveying instrument on the summit"
+   }
+  }
  },
  {
   "id": "placido-del-pilar",
@@ -457,6 +527,16 @@ window.PERSONAJES=[
   "fuentes": [
    "Husillos Tamarit, I. (2019). El Desierto de Las Palmas a lo largo del siglo XIX. Revista de Espiritualidad 78, 199–226, pp. 202–203."
   ],
-  "estado": "con fuente"
+  "estado": "con fuente",
+  "imagen": {
+   "src": "assets/img/personajes/placido-del-pilar.svg",
+   "autor": "",
+   "licencia": "",
+   "alt": {
+    "es": "Ilustración del padre Plácido del Pilar con un libro en un archivo",
+    "va": "Il·lustració del pare Plácido del Pilar amb un llibre en un arxiu",
+    "en": "Illustration of Father Plácido del Pilar holding a book in an archive"
+   }
+  }
  }
 ];

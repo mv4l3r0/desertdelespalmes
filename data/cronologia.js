@@ -54,9 +54,9 @@ window.CRONO=[
    "en": "The new-build convent is begun"
   },
   "texto": {
-   "es": "Se inician las obras del convento de nueva planta, el «Desert Vell», hoy en ruinas, con fray Bernardo de San José como tracista.",
-   "va": "S'inicien les obres del convent de nova planta, el «Desert Vell», hui en ruïnes, amb fra Bernat de Sant Josep com a tracista.",
-   "en": "Works begin on the new-build convent, the «Desert Vell», now in ruins, with Friar Bernardo de San José as its designer."
+   "es": "Se inician las obras del convento de nueva planta, el convento viejo, hoy en ruinas, con fray Bernardo de San José como tracista.",
+   "va": "S'inicien les obres del convent de nova planta, el convent vell, hui en ruïnes, amb fra Bernat de Sant Josep com a tracista.",
+   "en": "Works begin on the new-build convent, the old convent, now in ruins, with Friar Bernardo de San José as its designer."
   },
   "fuente": "BOE-A-2004-6216"
  },

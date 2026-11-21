@@ -95,3 +95,14 @@ nav .lang a{display:inline-flex;align-items:center}
 #lista figure img{background:var(--bg2)}
 
 .src{font-size:.8rem;opacity:.8}
+
+.prose{max-width:70ch}.prose h2{font-size:1.6rem;margin:2.6rem 0 .6rem}.prose p{margin:0 0 1rem}
+.toc{border:1px solid var(--line);border-radius:6px;padding:1rem 1.2rem;margin:0 0 2rem}.toc ol{margin:.4rem 0 0;padding-left:1.2rem}.toc a{color:var(--ink)}
+.resumen{border-left:3px solid var(--pine);padding:.1rem 0 .1rem 1rem;margin:0 0 2rem}
+sup.ref a{text-decoration:none;font-size:.75em;color:var(--pine);margin-left:.1em}
+.fuentes li{margin:.5rem 0;font-size:.95rem;color:var(--mute)}.fuentes a{color:var(--pine)}
+/* Móvil: la ilustración completa (montañas a la izquierda, pinos a la derecha) y el texto sobre el cielo */
+@media (max-width:800px){
+  .hero{min-height:0!important;height:calc(56.25vw + 7.5rem);background:url(../assets/img/portada.svg) center bottom/100% auto no-repeat,#2a4c66!important}
+  .hero .wrap{top:1.2rem;left:1.25rem}
+}
