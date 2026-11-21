@@ -1,0 +1,3 @@
+# QUITAR este bloque al lanzar la web: pide a los buscadores que no la indexen.
+/*
+  X-Robots-Tag: noindex

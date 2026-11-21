@@ -1,0 +1,1 @@
+portada.svg es la ilustracion de portada (editable). Para usar una foto real, sustituye el nombre en css/style.css (portada.svg -> portada.jpg).
