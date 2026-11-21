@@ -1,16 +1,12 @@
-# Desierto de las Palmas — Guía y Compendio
+# Desierto de las Palmas · web estática (Cloudflare Pages + GitHub)
 
-Guía y compendio digital dedicado a reunir, estructurar y preservar el conocimiento sobre el Desierto de las Palmas y su entorno: historia, personajes ilustres, rutas, flora, fauna, patrimonio y recursos útiles.
+Sin paso de compilación: Cloudflare Pages publica la raíz del repositorio. En Pages: framework "None", comando de build vacío, directorio de salida "/".
 
-## Qué recoge el proyecto
-- **Historia y patrimonio:** orígenes, evolución histórica, conventos, ermitas y hitos clave del enclave.
-- **Personajes ilustres:** figuras vinculadas históricamente, culturalmente o espiritualmente al Desierto y su zona de influencia.
-- **Rutas y recorridos:** itinerarios, senderos, miradores y orientación para recorrer el paraje.
-- **Flora y fauna:** vegetación mediterránea, alcornocales, especies características y biodiversidad local.
-- **Recursos y guía práctica:** referencias, mapas, fuentes de información y datos útiles para explorar y profundizar.
+## Idiomas
+Castellano en la raíz, valenciano en /va/ e inglés en /en/. Contenido en data/*.js (personajes, especies, rutas, cronología); textos de interfaz en js/i18n.js.
 
-## Objetivo
-Centralizar en un único sitio web estático una referencia clara, ordenada y accesible para consultar o ampliar información sobre el Desierto de las Palmas.
-
-## Publicación y despliegue
-Sitio web estático publicado en **Cloudflare Pages** con despliegue automático a partir de las actualizaciones en este repositorio.
+## Antes de lanzar
+1. Quitar el bloque de `_headers` (X-Robots-Tag: noindex), o Google no indexará la web.
+2. Contacto: crear una clave en web3forms.com con tu correo y pegarla en data/config.js. Mientras diga PEGA_AQUI_TU_CLAVE, el formulario se oculta.
+3. Redirección del dominio secundario (desiertodelaspalmas.org → desertdelespalmes.org): hacerla en el panel (Cloudflare Redirect Rules o el reenvío de URL de Porkbun). Cloudflare Pages no admite redirecciones por dominio en `_redirects`.
+4. Añadir sitemap.xml y robots.txt, y registrar la web en Google Search Console.
