@@ -106,3 +106,9 @@ sup.ref a{text-decoration:none;font-size:.75em;color:var(--pine);margin-left:.1e
   .hero{min-height:0!important;height:calc(56.25vw + 7.5rem);background:url(../assets/img/portada.svg) center bottom/100% auto no-repeat,#2a4c66!important}
   .hero .wrap{top:1.2rem;left:1.25rem}
 }
+
+.toc summary{cursor:pointer;font-weight:600;list-style-position:inside}
+.toc[open] summary{margin-bottom:.4rem}
+
+.toc{position:static!important}
+.top{font-size:.85rem;text-align:right;margin:-.4rem 0 0}.top a{color:var(--pine)}

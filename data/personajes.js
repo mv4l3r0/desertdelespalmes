@@ -538,5 +538,120 @@ window.PERSONAJES=[
     "en": "Illustration of Father Plácido del Pilar holding a book in an archive"
    }
   }
+ },
+ {
+  "id": "jose-maria-mulet-ortiz",
+  "nombre": "José María Mulet Ortiz",
+  "fechas": "Nació en 1925",
+  "orden": 1982,
+  "categorias": [
+   "Ciencia y Naturaleza",
+   "Protección y Mecenazgo"
+  ],
+  "rol": "Farmacéutico y botánico",
+  "vinculo": "Fue vicepresidente de la asociación Amics del Desert, creada para la conservación del paraje, y colaboró con la Cátedra de Botánica de la Facultad de Farmacia de Valencia y con el Jardín Botánico en la conservación de áreas naturales de la provincia de Castellón.",
+  "legado": "Presidió el Colegio de Farmacéuticos de Castellón (1982–1994), creó el museo de farmacia que lleva su nombre e impulsó la plantación de especies autóctonas en la ciudad. Su familia aportará fotografías y escritos.",
+  "fuentes": [
+   "Colegio Oficial de Farmacéuticos de Castellón. Biografía de José María Mulet Ortiz.",
+   "Bellés, S. «Hermanos Mulet Ortiz, José María y Miguel», en Hombres y Mujeres de Castellón (Universitat Jaume I)."
+  ],
+  "estado": "con fuente",
+  "enlaces": [
+   {
+    "titulo": "Biografía en el Colegio de Farmacéuticos",
+    "url": "https://www.farmaceuticos.com/?p=344696"
+   },
+   {
+    "titulo": "Diccionario Biográfico (Real Academia de la Historia)",
+    "url": "https://dbe.rah.es/biografias/37828/jose-maria-mulet-ortiz"
+   }
+  ]
+ },
+ {
+  "id": "angelo-secchi",
+  "nombre": "Angelo Secchi",
+  "fechas": "1818–1878",
+  "orden": 1860,
+  "categorias": [
+   "Ciencia y Naturaleza"
+  ],
+  "rol": "Astrónomo jesuita, director del observatorio del Colegio Romano",
+  "vinculo": "Eligió el convento carmelita del Desierto para observar el eclipse total de Sol del 18 de julio de 1860, por sugerencia de Antonio Aguilar, director del Real Observatorio de Madrid. Su expedición fotografió la fase de totalidad.",
+  "legado": "Las fotografías lo convencieron de que las protuberancias solares eran fenómenos del propio Sol.",
+  "fuentes": [
+   "Realdi, M. «Astronomical station for the eclipse of 1860 in Spain». INAF – Observatorio Astronómico de Roma."
+  ],
+  "estado": "con fuente",
+  "enlaces": [
+   {
+    "titulo": "INAF: la estación astronómica del Desierto (1860)",
+    "url": "https://tracieloeterra.inaf.it/index.html@p=922&lang=en.html"
+   }
+  ]
+ },
+ {
+  "id": "jose-montserrat-riutort",
+  "nombre": "José Montserrat Riutort",
+  "fechas": "† 1881",
+  "orden": 1860,
+  "categorias": [
+   "Ciencia y Naturaleza"
+  ],
+  "rol": "Catedrático de química de la Universitat de València",
+  "vinculo": "Fue el autor material de las fotografías de la corona solar durante el eclipse de 1860, tomadas desde la ermita de Nuestra Señora del Carmen del Desierto. Según un reportaje, hizo catorce.",
+  "legado": "El reconocimiento de aquellas fotografías recayó durante mucho tiempo en Secchi.",
+  "fuentes": [
+   "El Temps (2002), reportaje sobre Josep Montserrat.",
+   "EFE (31 de julio de 2026), declaraciones de P. Ruiz-Castell sobre los eclipses."
+  ],
+  "estado": "con fuente"
+ },
+ {
+  "id": "miguel-torrejon-herrero",
+  "nombre": "Miguel Torrejón Herrero",
+  "fechas": "Años 2000",
+  "orden": 2004,
+  "categorias": [
+   "Ciencia y Naturaleza"
+  ],
+  "rol": "Micólogo",
+  "vinculo": "Es autor de la serie «Contribución al estudio de la flora micológica del Desert de les Palmes (Castelló)», publicada en la Revista Catalana de Micologia. La cuarta entrega (2005) cita 73 especies de hongos.",
+  "legado": "Aporta un catálogo de los hongos del paraje.",
+  "fuentes": [
+   "Torrejón, M. (2005). Contribución al estudio de la flora micológica del Desert de les Palmes (Castelló). IV. Revista Catalana de Micologia 27, 99–114."
+  ],
+  "estado": "con fuente"
+ },
+ {
+  "id": "r-rosello-y-colaboradores",
+  "nombre": "R. Roselló y colaboradores (Universitat de València)",
+  "fechas": "2015",
+  "orden": 2015,
+  "categorias": [
+   "Ciencia y Naturaleza"
+  ],
+  "rol": "Botánicos",
+  "vinculo": "En un estudio publicado en la revista Nemus proponen un nuevo tipo de «llistonar», un pastizal xerófilo, en el Parque Natural, a partir de investigaciones recientes en la sierra del Desierto.",
+  "legado": "Contribución al conocimiento de la vegetación del macizo.",
+  "fuentes": [
+   "Roselló, R., Ferrer-Gallego, P. P., Gómez, J., Laguna, E. y Peris, J. B. (2015). Un nou llistonar per a la província de Castelló. Nemus 5, 9–15."
+  ],
+  "estado": "con fuente"
+ },
+ {
+  "id": "fray-juan-de-la-virgen",
+  "nombre": "Fray Juan de la Virgen",
+  "fechas": "1691",
+  "orden": 1691,
+  "categorias": [
+   "Vida Carmelita"
+  ],
+  "rol": "Procurador del convento de Valencia",
+  "vinculo": "Según el expediente de BIC, un sacerdote de Cabanes le indicó el lugar, y encabezó la gestión de la compra de la masía de Gavarrell en 1691. También se le atribuye un libro manuscrito con documentos de la fundación (1694–1708), pendiente de contrastar.",
+  "legado": "Figura clave de la compra y la fundación.",
+  "fuentes": [
+   "Resolución de 8 de marzo de 2004 (BOE-A-2004-6216), incoación del expediente de BIC del Desierto de las Palmas."
+  ],
+  "estado": "con fuente"
  }
 ];

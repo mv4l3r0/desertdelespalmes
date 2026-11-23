@@ -254,5 +254,20 @@ window.CRONO=[
    "en": "Proceedings begin to declare the Desert an Asset of Cultural Interest, category historic site (resolution of 8 March)."
   },
   "fuente": "BOE-A-2004-6216"
+ },
+ {
+  "anio": "1860",
+  "orden": 1860,
+  "titulo": {
+   "es": "Eclipse total de Sol de 1860",
+   "va": "Eclipsi total de Sol de 1860",
+   "en": "Total solar eclipse of 1860"
+  },
+  "texto": {
+   "es": "El 18 de julio el astrónomo italiano Angelo Secchi observa el eclipse total desde el Desierto, adonde llega con una expedición científica. El catedrático José Montserrat toma fotografías de la corona solar desde la ermita del Carmen.",
+   "va": "El 18 de juliol l'astrònom italià Angelo Secchi observa l'eclipsi total des del Desert, on arriba amb una expedició científica. El catedràtic Josep Montserrat pren fotografies de la corona solar des de l'ermita del Carme.",
+   "en": "On 18 July the Italian astronomer Angelo Secchi observes the total eclipse from the Desert, where he arrives with a scientific expedition. Professor José Montserrat takes photographs of the solar corona from the Carmen hermitage."
+  },
+  "fuente": "INAF (Observatorio Astronómico de Roma); El Temps (2002)"
  }
 ];
