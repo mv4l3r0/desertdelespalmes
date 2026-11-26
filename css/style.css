@@ -112,3 +112,20 @@ sup.ref a{text-decoration:none;font-size:.75em;color:var(--pine);margin-left:.1e
 
 .toc{position:static!important}
 .top{font-size:.85rem;text-align:right;margin:-.4rem 0 0}.top a{color:var(--pine)}
+/* Páginas de ruta */
+.prose.wide{max-width:900px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:.8rem;margin:0 0 1.6rem}
+.stat{border:1px solid var(--line);border-radius:8px;padding:.8rem 1rem;background:var(--bg2)}
+.stat b{display:block;font-family:"Young Serif",Georgia,serif;font-weight:400;font-size:1.45rem;line-height:1.2}
+.stat span{color:var(--mute);font-size:.85rem}
+.perfil{margin:0;border:1px solid var(--line);border-radius:8px;padding:.6rem;background:var(--bg2)}
+.perfil-svg{display:block;width:100%;height:auto}
+.rmap{height:440px;margin-bottom:.5rem}
+.kp{columns:2;column-gap:2rem;padding-left:1.3rem}.kp li{margin:0 0 .3rem;break-inside:avoid}
+@media(max-width:700px){.kp{columns:1}.rmap{height:340px}}
+.datos,.otras{padding-left:1.2rem}.datos li,.otras li{margin:.4rem 0}.datos b{color:var(--ink)}
+/* Tarjetas del índice de rutas */
+.rcards{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.2rem;margin-bottom:1.2rem}
+.rcard{display:block;text-decoration:none;color:var(--ink);border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--bg2)}
+.rcard:hover{border-color:var(--pine)}.rcard img{display:block;width:100%;height:auto}
+.rcard div{padding:.9rem 1.1rem 1.1rem}.rcard h2{font-size:1.25rem;margin:0 0 .3rem}.rcard p{margin:.2rem 0;color:var(--mute);font-size:.95rem}.rcard .st{color:var(--pine);font-weight:600}

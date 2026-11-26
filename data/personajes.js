@@ -120,7 +120,17 @@ window.PERSONAJES=[
   "vinculo": "Habría visitado y estudiado el paraje en la década de 1790 y dejado constancia en sus Observaciones sobre el Reino de Valencia.",
   "legado": "Primer gran estudio científico de su botánica y geografía.",
   "fuentes": [],
-  "estado": "por verificar"
+  "estado": "por verificar",
+  "imagen": {
+   "src": "assets/img/personajes/antonio-jose-cavanilles.jpg",
+   "autor": "Retrato de la época (autor por confirmar)",
+   "licencia": "Dominio público (por confirmar)",
+   "alt": {
+    "es": "Retrato de Antonio José Cavanilles con una lámina botánica",
+    "va": "Retrat d'Antoni Josep Cavanilles amb una làmina botànica",
+    "en": "Portrait of Antonio José Cavanilles holding a botanical plate"
+   }
+  }
  },
  {
   "id": "vecinos-y-ayuntamientos",
@@ -565,7 +575,17 @@ window.PERSONAJES=[
     "titulo": "Diccionario Biográfico (Real Academia de la Historia)",
     "url": "https://dbe.rah.es/biografias/37828/jose-maria-mulet-ortiz"
    }
-  ]
+  ],
+  "imagen": {
+   "src": "assets/img/personajes/jose-maria-mulet-ortiz.jpg",
+   "autor": "Archivo familiar Mulet Ortiz (por confirmar)",
+   "licencia": "Cedida por la familia (por confirmar)",
+   "alt": {
+    "es": "Retrato de José María Mulet Ortiz",
+    "va": "Retrat de José María Mulet Ortiz",
+    "en": "Portrait of José María Mulet Ortiz"
+   }
+  }
  },
  {
   "id": "angelo-secchi",
